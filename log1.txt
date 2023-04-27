@@ -1,0 +1,304 @@
+Time:0
+Waiting: [(4 , 3 , 3), (2 , 6 , 4), (1 , 18 , 4), (3 , 22 , 2)]
+Queue: closed
+Queue: closed
+
+Time:1
+Waiting: [(4 , 3 , 3), (2 , 6 , 4), (1 , 18 , 4), (3 , 22 , 2)]
+Queue: closed
+Queue: closed
+
+Time:2
+Waiting: [(4 , 3 , 3), (2 , 6 , 4), (1 , 18 , 4), (3 , 22 , 2)]
+Queue: closed
+Queue: closed
+
+Time:3
+Waiting: [(2 , 6 , 4), (1 , 18 , 4), (3 , 22 , 2)]
+Queue: (4 , 3 , 3)  
+Queue: closed
+
+Time:4
+Waiting: [(2 , 6 , 4), (1 , 18 , 4), (3 , 22 , 2)]
+Queue: (4 , 3 , 2)  
+Queue: closed
+
+Time:5
+Waiting: [(2 , 6 , 4), (1 , 18 , 4), (3 , 22 , 2)]
+Queue: (4 , 3 , 1)  
+Queue: closed
+
+Time:6
+Waiting: [(1 , 18 , 4), (3 , 22 , 2)]
+Queue: (2 , 6 , 4)  
+Queue: closed
+
+Time:7
+Waiting: [(1 , 18 , 4), (3 , 22 , 2)]
+Queue: (2 , 6 , 3)  
+Queue: closed
+
+Time:8
+Waiting: [(1 , 18 , 4), (3 , 22 , 2)]
+Queue: (2 , 6 , 2)  
+Queue: closed
+
+Time:9
+Waiting: [(1 , 18 , 4), (3 , 22 , 2)]
+Queue: (2 , 6 , 1)  
+Queue: closed
+
+Time:10
+Waiting: [(1 , 18 , 4), (3 , 22 , 2)]
+Queue: closed
+Queue: closed
+
+Time:11
+Waiting: [(1 , 18 , 4), (3 , 22 , 2)]
+Queue: closed
+Queue: closed
+
+Time:12
+Waiting: [(1 , 18 , 4), (3 , 22 , 2)]
+Queue: closed
+Queue: closed
+
+Time:13
+Waiting: [(1 , 18 , 4), (3 , 22 , 2)]
+Queue: closed
+Queue: closed
+
+Time:14
+Waiting: [(1 , 18 , 4), (3 , 22 , 2)]
+Queue: closed
+Queue: closed
+
+Time:15
+Waiting: [(1 , 18 , 4), (3 , 22 , 2)]
+Queue: closed
+Queue: closed
+
+Time:16
+Waiting: [(1 , 18 , 4), (3 , 22 , 2)]
+Queue: closed
+Queue: closed
+
+Time:17
+Waiting: [(1 , 18 , 4), (3 , 22 , 2)]
+Queue: closed
+Queue: closed
+
+Time:18
+Waiting: [(3 , 22 , 2)]
+Queue: (1 , 18 , 4)  
+Queue: closed
+
+Time:19
+Waiting: [(3 , 22 , 2)]
+Queue: (1 , 18 , 3)  
+Queue: closed
+
+Time:20
+Waiting: [(3 , 22 , 2)]
+Queue: (1 , 18 , 2)  
+Queue: closed
+
+Time:21
+Waiting: [(3 , 22 , 2)]
+Queue: (1 , 18 , 1)  
+Queue: closed
+
+Time:22
+Waiting: []
+Queue: (3 , 22 , 2)  
+Queue: closed
+
+Time:23
+Waiting: []
+Queue: (3 , 22 , 1)  
+Queue: closed
+
+Time:24
+Waiting: []
+Queue: closed
+Queue: closed
+
+Time:25
+Waiting: []
+Queue: closed
+Queue: closed
+
+Time:26
+Waiting: []
+Queue: closed
+Queue: closed
+
+Time:27
+Waiting: []
+Queue: closed
+Queue: closed
+
+Time:28
+Waiting: []
+Queue: closed
+Queue: closed
+
+Time:29
+Waiting: []
+Queue: closed
+Queue: closed
+
+Time:30
+Waiting: []
+Queue: closed
+Queue: closed
+
+Time:31
+Waiting: []
+Queue: closed
+Queue: closed
+
+Time:32
+Waiting: []
+Queue: closed
+Queue: closed
+
+Time:33
+Waiting: []
+Queue: closed
+Queue: closed
+
+Time:34
+Waiting: []
+Queue: closed
+Queue: closed
+
+Time:35
+Waiting: []
+Queue: closed
+Queue: closed
+
+Time:36
+Waiting: []
+Queue: closed
+Queue: closed
+
+Time:37
+Waiting: []
+Queue: closed
+Queue: closed
+
+Time:38
+Waiting: []
+Queue: closed
+Queue: closed
+
+Time:39
+Waiting: []
+Queue: closed
+Queue: closed
+
+Time:40
+Waiting: []
+Queue: closed
+Queue: closed
+
+Time:41
+Waiting: []
+Queue: closed
+Queue: closed
+
+Time:42
+Waiting: []
+Queue: closed
+Queue: closed
+
+Time:43
+Waiting: []
+Queue: closed
+Queue: closed
+
+Time:44
+Waiting: []
+Queue: closed
+Queue: closed
+
+Time:45
+Waiting: []
+Queue: closed
+Queue: closed
+
+Time:46
+Waiting: []
+Queue: closed
+Queue: closed
+
+Time:47
+Waiting: []
+Queue: closed
+Queue: closed
+
+Time:48
+Waiting: []
+Queue: closed
+Queue: closed
+
+Time:49
+Waiting: []
+Queue: closed
+Queue: closed
+
+Time:50
+Waiting: []
+Queue: closed
+Queue: closed
+
+Time:51
+Waiting: []
+Queue: closed
+Queue: closed
+
+Time:52
+Waiting: []
+Queue: closed
+Queue: closed
+
+Time:53
+Waiting: []
+Queue: closed
+Queue: closed
+
+Time:54
+Waiting: []
+Queue: closed
+Queue: closed
+
+Time:55
+Waiting: []
+Queue: closed
+Queue: closed
+
+Time:56
+Waiting: []
+Queue: closed
+Queue: closed
+
+Time:57
+Waiting: []
+Queue: closed
+Queue: closed
+
+Time:58
+Waiting: []
+Queue: closed
+Queue: closed
+
+Time:59
+Waiting: []
+Queue: closed
+Queue: closed
+
+Simulation is done!
+Average Service Time: 3.25
+Average Waiting Time: 3.25
+Peak hour is 3 with 1 clients in queue

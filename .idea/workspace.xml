@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="58a17b34-d797-4cf0-91c3-0a0e125e9a15" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="module-info" />
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2OSpMe2JJzDQwLL0WWNq99Qi3g8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/An2/Sem2/TP/PT2023_30224_Popovici_Eusebiu_Ionut_Assignment_1&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="58a17b34-d797-4cf0-91c3-0a0e125e9a15" name="Changes" comment="" />
+      <created>1681563792652</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681563792652</updated>
+      <workItem from="1681563793918" duration="5741000" />
+      <workItem from="1681920582845" duration="1795000" />
+      <workItem from="1681995428552" duration="12271000" />
+      <workItem from="1682011872445" duration="97000" />
+      <workItem from="1682015849059" duration="6640000" />
+      <workItem from="1682065876785" duration="1544000" />
+      <workItem from="1682083643432" duration="163000" />
+      <workItem from="1682099773647" duration="6455000" />
+      <workItem from="1682248005114" duration="15933000" />
+      <workItem from="1682328423439" duration="1979000" />
+      <workItem from="1682344364949" duration="22491000" />
+      <workItem from="1682440562815" duration="649000" />
+      <workItem from="1682523141836" duration="1104000" />
+      <workItem from="1682525785375" duration="778000" />
+      <workItem from="1682599007270" duration="4344000" />
+      <workItem from="1682607734664" duration="1839000" />
+      <workItem from="1682609588483" duration="1614000" />
+      <workItem from="1682611335504" duration="1473000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
